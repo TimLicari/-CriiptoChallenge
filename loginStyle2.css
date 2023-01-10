@@ -1,9 +1,9 @@
 .broker h1#headline{
-    padding-top: 30px;
+    padding-top: 5px;
     padding-bottom:30px;
     width:100%;
+    background:white;
     max-width:-webkit-fill-available;
-    color:#6aa334;
 }
 
 #headline span {
