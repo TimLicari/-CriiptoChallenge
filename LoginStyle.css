@@ -2,3 +2,11 @@
     color: aqua;
     background-color: brown;
 }
+
+.sign #headline .lang span {
+    display: none;
+}
+
+.sign #headline .lang-en:after {
+    content: "Signera med Bank-ID";
+}
